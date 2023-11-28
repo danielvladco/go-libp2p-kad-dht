@@ -1,3 +1,5 @@
+//go:build !notracing
+
 package internal
 
 import (
